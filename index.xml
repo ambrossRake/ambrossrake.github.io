@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Gridless One</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Gridless One</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>About Gridless One</title>
+    <link>https://quartz.jzhao.xyz/about</link>
+    <guid>https://quartz.jzhao.xyz/about</guid>
+    <description><![CDATA[ Learn about Gridless One — a community-driven campus blending technology, art, and sustainability in the high desert. ]]></description>
+    <pubDate>Fri, 14 Nov 2025 02:41:54 GMT</pubDate>
+  </item><item>
+    <title>Attention all would be donors!</title>
+    <link>https://quartz.jzhao.xyz/donate</link>
+    <guid>https://quartz.jzhao.xyz/donate</guid>
+    <description><![CDATA[ 🌱 Support Gridless-One Help us build a community-led future. ]]></description>
+    <pubDate>Fri, 14 Nov 2025 02:41:54 GMT</pubDate>
+  </item><item>
+    <title>Upcoming and past events</title>
+    <link>https://quartz.jzhao.xyz/events</link>
+    <guid>https://quartz.jzhao.xyz/events</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Fri, 14 Nov 2025 02:41:54 GMT</pubDate>
+  </item><item>
+    <title>Gridless One Community Initiative</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Welcome to Gridless One 🌱 A modern sanctuary for creativity, connection, and sustainability. ]]></description>
+    <pubDate>Fri, 14 Nov 2025 02:41:54 GMT</pubDate>
+  </item><item>
+    <title>Library and Museum</title>
+    <link>https://quartz.jzhao.xyz/library</link>
+    <guid>https://quartz.jzhao.xyz/library</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Fri, 14 Nov 2025 02:41:54 GMT</pubDate>
+  </item><item>
+    <title>For the makers</title>
+    <link>https://quartz.jzhao.xyz/makers</link>
+    <guid>https://quartz.jzhao.xyz/makers</guid>
+    <description><![CDATA[ Empowering creators, builders, and innovators to craft sustainable solutions at Gridless One. ]]></description>
+    <pubDate>Fri, 14 Nov 2025 02:41:54 GMT</pubDate>
+  </item><item>
+    <title>Wildlife Sanctuary</title>
+    <link>https://quartz.jzhao.xyz/wildlife</link>
+    <guid>https://quartz.jzhao.xyz/wildlife</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Fri, 14 Nov 2025 02:41:54 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
